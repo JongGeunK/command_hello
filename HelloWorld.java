@@ -1,5 +1,8 @@
 import com.sun.java;
 
+// 테스트로 생성한 주석 문장이에요!!.
+// 잘 되길 바랍니다~~
+
 public class HelloWorld {
 
     public static void main(String[] args) {
